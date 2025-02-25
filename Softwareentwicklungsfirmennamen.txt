@@ -1,0 +1,36 @@
+QuantumCraft
+NeuroGrid Technologies
+SynthWare Systems
+ByteVerse Labs
+HyperNova Software
+ZenithCode
+CyberSynth Innovations
+SolaraTech
+Nebula Nexus
+AetherLogic
+TechnoSphere Solutions
+XenoCode Systems
+MetaForge Labs
+ZeroPoint Software
+StratoByte Technologies
+
+
+
+Feature Vergleich High-Code vs. Low-Code
+
+1. Lokale und globale Hyperlinks
+2. DOM-Manipulation
+3. Customizing von Forms
+4. Einbau von inline Input-Feldern
+5. localeStorage
+6. Entwicklung für mobile Endgeräte
+7. Deployment
+8. IDE Extensions (Go Live, Prettier, Quokka)
+9. Kommentare
+
+
+Übung 1. Personalpronomen
+1. ___ bin da. (I)
+2. ___ kommen aus China. (They)
+3. ___ geht schlafen. (She)
+4. 
