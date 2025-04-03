@@ -410,3 +410,23 @@ Die Ergebnisse haben wichtige Implikationen für die Zukunft der Softwareentwick
 
 
 Dieser Vergleich verdeutlicht das Potenzial von Low-Code-Entwicklungsplattformen, die Effizienz in der Softwareentwicklung zu steigern und die Komplexität der entwickelten Systeme zu reduzieren.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Ja, ich kenne die Studie "Low-code development and model-driven engineering: Two sides of the same coin?" von Davide Di Ruscio et al., veröffentlicht im Jahr 2022 in der Zeitschrift Software and Systems Modeling. In dieser Arbeit vergleichen die Autoren Low-Code-Entwicklungsplattformen (LCDPs) mit Model-Driven Engineering (MDE), um deren Gemeinsamkeiten und Unterschiede herauszuarbeiten. Beide Ansätze zielen darauf ab, die Softwareentwicklung durch den Einsatz von Modellen und visuellen Methoden zu vereinfachen und zu beschleunigen.​
+
+
+Hauptpunkte der Studie:
+
+Gemeinsamkeiten: Sowohl LCDPs als auch MDE nutzen Modelle als zentrale Artefakte im Entwicklungsprozess und streben eine Automatisierung der Code-Generierung an, um die Produktivität zu erhöhen und Fehler zu reduzieren.​
+
+Unterschiede: LCDPs sind oft kommerzielle, cloudbasierte Plattformen mit einem starken Fokus auf Benutzerfreundlichkeit und richten sich häufig an Nicht-Programmierer. Im Gegensatz dazu ist MDE ein umfassenderer Ansatz, der in der akademischen Forschung verwurzelt ist und eine stärkere Formalisierung sowie Anpassungsfähigkeit bietet.​
+
+
+Stärken und Schwächen: LCDPs ermöglichen eine schnelle Entwicklung und Bereitstellung von Anwendungen, können jedoch in Bezug auf Flexibilität und Kontrolle eingeschränkt sein. MDE bietet eine hohe Anpassungsfähigkeit und Kontrolle, erfordert jedoch oft mehr Fachwissen und kann komplexer in der Anwendung sein.​
+
+Die Autoren schlagen vor, dass eine Kombination beider Ansätze von Vorteil sein könnte, indem die Benutzerfreundlichkeit von LCDPs mit der formalen Strenge und Flexibilität von MDE kombiniert wird.​
+
+Für weitere Details können Sie die vollständige Studie unter folgendem Link einsehen: 
