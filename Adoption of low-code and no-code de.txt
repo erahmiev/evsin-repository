@@ -1,0 +1,725 @@
+Adoption of low-code and no-code development: A systematic literature 
+review and future research agenda
+
+Zusammenfassung:
+
+In der Einleitung des Artikels wird die schnelle Entwicklung digitaler Technologien und Plattformen beschrieben, die die Softwareentwicklung revolutionieren und Organisationen sowie die Gesellschaft verändern. Insbesondere wird auf die Bedeutung der digitalen Transformation (DT) und die zunehmende Nutzung von Low-Code/No-Code (LCNC)-Technologien hingewiesen. LCNC ermöglicht es auch Nicht-Technikern, Software zu entwickeln, was insbesondere durch „Citizen Development“ (CD) vorangetrieben wird, bei dem nicht-technische Mitarbeiter befähigt werden, digitale Lösungen zu erstellen. LCNC-Technologien bieten viele Vorteile, darunter eine höhere Effizienz, Kostensenkungen und eine stärkere Ausrichtung zwischen den Abteilungen für IT und Geschäft.
+
+Trotz des Potenzials von LCNC gibt es Herausforderungen und Unsicherheiten hinsichtlich der tatsächlichen Wirkung auf die Geschäftsentwicklung und die Adoption in Unternehmen. Dies führt zu gemischten Reaktionen – von optimistischem Interesse bis hin zu Bedenken bezüglich Sicherheit und kultureller Veränderung.
+
+Zwei zentrale Forschungsfragen (RQ1 und RQ2) werden gestellt, um die Vorteile und Herausforderungen sowie die Bewertungsmethoden von LCNC und CD in Organisationen zu untersuchen. Eine systematische Literaturübersicht (SLR) wurde durchgeführt, um diese Fragen zu beantworten und die Forschungslücken zu identifizieren.
+
+Methode der Forschung:
+Die Studie verwendet einen mehrphasigen systematischen Literaturüberblick, basierend auf der Methodik von Wolfswinkel et al. (2013). In fünf Phasen wurden relevante Studien zum Thema LCNC und CD identifiziert und analysiert, um die Vor- und Nachteile sowie Forschungslücken zu ermitteln. Die Datenbankrecherche umfasste wissenschaftliche Datenbanken wie Google Scholar, ACM Digital Library und Scopus, und die Studie wurde auf Artikel der letzten fünf Jahre (2017–2023) fokussiert. Am Ende wurden 78 relevante Papiere identifiziert, von denen 40 empirische Studien waren.
+
+Wichtige Ergebnisse und Beiträge:
+LCNC und CD bieten Vorteile wie Prozessverbesserung, Innovation und digitale Kompetenzentwicklung, aber auch Herausforderungen wie Sicherheitsrisiken, Plattformfragmentierung und Wissenslücken.
+
+Ein Rahmenwerk mit vier zentralen Themen wird entwickelt: Technologie, Managementstrategien, Mitarbeiterrollen und digitale Fähigkeiten sowie Leistungsmessung.
+
+Die Untersuchung hilft, Forschungslücken und zukünftige Chancen für die Adoption von LCNC und CD zu identifizieren.
+
+Die Studie schließt mit einer Diskussion über das Forschungspotenzial und die praktischen Implikationen für die digitale Transformation in Organisationen.
+
+
+
+Die Studie "Adoption of Low-Code and No-Code Development: A Systematic Literature Review and Future Research Agenda" bietet eine umfassende Analyse der aktuellen Forschung zur Einführung von Low-Code/No-Code (LCNC)-Technologien im Rahmen von Citizen Development (CD) und deren Rolle in der digitalen Transformation.​
+
+Ziel der Studie: Das Hauptziel besteht darin, den aktuellen Forschungsstand zur Adoption von LCNC-Technologien in CD-Praktiken zu bewerten und eine zukünftige Forschungsagenda zu formulieren.​
+
+Methodik: Die Autoren führten eine systematische Literaturrecherche durch, die sich auf Veröffentlichungen aus den Jahren 2017 bis 2023 konzentrierte. Dabei identifizierten sie 40 Primärstudien, die sich mit der Anwendung von LCNC-Entwicklung und CD-Praktiken befassen.​
+
+
+Hauptergebnisse:
+
+Anwendungsbereiche: Die Studie identifizierte verschiedene Bereiche, in denen LCNC-Technologien eingesetzt werden, insbesondere in der Prozessautomatisierung und schnellen Anwendungsentwicklung.​
+
+Theoretische Rahmenwerke: Es wurden verschiedene theoretische Ansätze und Frameworks angewendet, um die Adoption und Nutzung von LCNC-Technologien zu analysieren.​
+
+Vorteile: Zu den identifizierten Vorteilen zählen eine erhöhte Entwicklungsgeschwindigkeit, Kosteneffizienz und die Demokratisierung der Softwareentwicklung, die es auch Nicht-Programmierern ermöglicht, Anwendungen zu erstellen.​
+
+Herausforderungen: Die Studie hebt Herausforderungen wie Sicherheitsbedenken, Skalierbarkeitsprobleme und mögliche Qualitätsmängel der entwickelten Anwendungen hervor.​
+
+Beitrag der Studie:
+
+Umfassender Überblick: Die Studie bietet eine detaillierte Übersicht über die Vorteile, Herausforderungen und theoretischen Perspektiven im Zusammenhang mit der Adoption von LCNC und CD.​
+
+Informationsrahmen: Sie stellt ein informatives Framework bereit, das Managern hilft, LCNC- und CD-Praktiken effektiv zu implementieren.​
+
+Forschungsagenda: Die Autoren identifizieren Forschungslücken und schlagen zukünftige Forschungsrichtungen vor, um die bestehenden Herausforderungen zu adressieren und das Verständnis von LCNC-Technologien zu vertiefen.​
+
+Diese Studie ist besonders relevant für Organisationen, die LCNC-Technologien einführen möchten, sowie für Forscher, die sich mit der digitalen Transformation und modernen Softwareentwicklungsmethoden beschäftigen.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Softwareentwicklung kompakt und verständlich
+
+Zusammenfassung:
+Es ist eine Einführung in die Softwareentwicklung, die insbesondere darauf abzielt, Konzepte der Softwareentwicklung für Einsteiger und Interessierte verständlich darzustellen. Die Autoren erklären sowohl grundlegende als auch fortgeschrittene Themen in der Softwareentwicklung und vermitteln praxisnahe Ansätze, um Software effizient und nachhaltig zu entwickeln.
+
+Zusammenfassung des Buches:
+Das Buch bietet einen umfassenden Überblick über die wichtigsten Aspekte der Softwareentwicklung und ist so aufgebaut, dass es auch ohne tiefgehende Vorkenntnisse verständlich ist. Es richtet sich an Studierende und Fachleute, die in die Softwareentwicklung einsteigen möchten, aber auch für erfahrene Entwickler bietet es wertvolle Einsichten.
+
+Die wichtigsten Themen des Buches umfassen:
+
+Grundlagen der Softwareentwicklung:
+
+Einführung in den Softwareentwicklungsprozess.
+
+Beschreibung der verschiedenen Phasen der Softwareentwicklung, wie Anforderungsanalyse, Design, Implementierung, Testing und Wartung.
+
+Methoden und Modelle:
+
+Klassische Modelle wie das Wasserfallmodell, das V-Modell und agile Ansätze wie Scrum und Kanban.
+
+Die Autoren legen großen Wert darauf, die Vor- und Nachteile der verschiedenen Modelle aufzuzeigen und erläutern, wie und wann man diese einsetzen kann.
+
+Programmiermethoden:
+
+Vermittlung grundlegender Programmierkonzepte, die notwendig sind, um Software erfolgreich zu entwickeln.
+
+Es werden sowohl objektorientierte als auch funktionale Programmieransätze behandelt.
+
+Softwarequalität und Testen:
+
+Bedeutung der Softwarequalität und der verschiedenen Testmethoden wie Unit-Tests, Integrationstests und Systemtests.
+
+Einführung in automatisiertes Testen und Continuous Integration, um die Qualität während des gesamten Entwicklungsprozesses zu sichern.
+
+Werkzeuge und Technologien:
+
+Vorstellung gängiger Entwicklungswerkzeuge und Technologien, die die Arbeit von Softwareentwicklern unterstützen (wie z. B. Versionskontrollsysteme, IDEs, Frameworks und Build-Tools).
+
+Agile Softwareentwicklung:
+
+Das Buch geht detailliert auf agile Methoden ein, insbesondere Scrum, und zeigt, wie diese Methoden helfen können, Software flexibler und effizienter zu entwickeln.
+
+Softwareprojektmanagement:
+
+Es wird auch auf das Management von Softwareprojekten eingegangen, mit Fokus auf Zeit- und Ressourcenmanagement, Kommunikation und Dokumentation.
+
+Praktische Beispiele und Anwendungen:
+
+Zahlreiche praxisorientierte Beispiele, Übungen und Fallstudien veranschaulichen die theoretischen Konzepte und machen die Theorie greifbar.
+
+Zielgruppe und Nutzen:
+Das Buch richtet sich vor allem an Studierende der Informatik und an Berufseinsteiger in die Softwareentwicklung. Es hilft dabei, ein solides Fundament für die Softwareentwicklung zu legen und unterstützt dabei, die Theorie in praktische Anwendung umzusetzen. Der Fokus auf Verständlichkeit und Praxisnähe macht es auch für Quereinsteiger geeignet, die sich in das Thema einarbeiten möchten.
+
+Fazit:
+„Softwareentwicklung kompakt und verständlich“ ist eine gute Ressource für alle, die ein tieferes Verständnis für die Softwareentwicklung entwickeln möchten. Die Autoren haben es geschafft, komplexe Themen klar und nachvollziehbar zu erklären, was das Buch besonders für Anfänger attraktiv macht.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Software einfacher, flexibler und leichtfüßiger entwickeln
+
+Der Artikel befasst sich mit der zunehmenden Bedeutung von Low-Code- und No-Code-Technologien in der Softwareentwicklung und deren Auswirkungen auf die IT-Branche. Die Low-Code Association hat das Low-Code-Manifest veröffentlicht, um das Bewusstsein für diese Technologien zu steigern und deren Vorteile hervorzuheben.
+
+Hauptpunkte des Artikels:
+Ziel des Low-Code-Manifests:
+
+Das Manifest soll die Bekanntheit von Low-Code- und No-Code-Technologien steigern und die öffentliche Wahrnehmung verbessern.
+
+Es soll einen breiteren Diskurs über den Einsatz dieser Technologien anregen, um mehr IT-Nutzung in Unternehmen zu ermöglichen.
+
+Vorteile von Low-Code und No-Code:
+
+Kürzere Entwicklungszyklen: Durch Prototyping und schnelle Iterationen können Anwendungen effizienter entwickelt und an sich ändernde Anforderungen angepasst werden.
+
+Flexibilität und Effizienz: Diese Ansätze ermöglichen es, maßgeschneiderte Software schneller zu erstellen und anzupassen, wodurch Unternehmen agiler und wettbewerbsfähiger werden.
+
+IT-Spezialisten entlasten: Fachabteilungen können Anwendungen selbst entwickeln, wodurch der Fachkräftemangel gemildert und die Entwicklungs- sowie Wartungskosten gesenkt werden.
+
+Auswirkungen auf die IT-Branche:
+
+Veränderung des Wertschöpfungsmodells: IT-Dienstleister entwickeln zunehmend vorgefertigte Softwarebausteine, die von Kunden selbst zu Lösungen zusammengesetzt werden können.
+
+Entstehung neuer Berufsrollen: Der Bedarf an Low-Code-Developern wächst, die durch visuelle und deklarative Methoden Anwendungen erstellen.
+
+Low-Code als langfristige Lösung:
+
+Es wird erwartet, dass Unternehmen in Zukunft eine Low-Code-Strategie benötigen, um von den Vorteilen dieser Technologien zu profitieren.
+
+Low-Code-Plattformen werden in verschiedenen Bereichen eingesetzt, von spezialisierten ERP-Systemen bis hin zu komplexen Web-Auftritten und der Automatisierung von Geschäftsprozessen.
+
+Zukunftsperspektiven:
+
+Low-Code und No-Code bieten Potenzial, die Softwareentwicklung revolutionär zu verändern. Der Einsatz von vorgefertigten Softwarebausteinen und visuellen Konzepten wird zunehmend wichtiger.
+
+Die Technologie hilft, den Fachkräftemangel zu lindern und bietet Unternehmen die Möglichkeit, selbstständig Softwarelösungen zu entwickeln, wodurch Zeit und Kosten gespart werden.
+
+Insgesamt zeigt der Artikel, dass Low-Code und No-Code-Technologien die Art und Weise, wie Software entwickelt und genutzt wird, erheblich verändern könnten, indem sie die Abhängigkeit von IT-Spezialisten verringern und Unternehmen eine größere Flexibilität bieten.
+
+Der Artikel "Low-Code: Software einfacher und flexibler entwickeln" im Digital Engineering Magazin beleuchtet die wachsende Bedeutung von Low-Code- und No-Code-Plattformen in der Softwareentwicklung und deren Auswirkungen auf die IT-Branche sowie den Arbeitsalltag.​
+
+Veränderungen in der IT-Branche: Traditionell erforderte die Entwicklung von Softwareanwendungen umfangreiche Programmierkenntnisse und lange Entwicklungszyklen. Mit dem Aufkommen von Low-Code- und No-Code-Plattformen können nun auch Personen ohne tiefgehende Programmierkenntnisse Anwendungen erstellen. Dies führt zu einer Demokratisierung der Softwareentwicklung und ermöglicht es Unternehmen, flexibler und schneller auf Marktanforderungen zu reagieren. Die Low-Code Association e.V. hat in diesem Zusammenhang das Low-Code-Manifest veröffentlicht, das die erwarteten Veränderungen und Vorteile dieser Technologien hervorhebt. ​
+
+
+Auswirkungen auf den Arbeitsalltag: Durch den Einsatz von Low-Code- und No-Code-Ansätzen können Mitarbeitende aus verschiedenen Fachbereichen ohne spezialisierte IT-Kenntnisse spezifische Anwendungen erstellen und Prozessabläufe modellieren. Dies reduziert den Bedarf an aufwendigen Auswahlverfahren und Anpassungsprojekten für Standardanwendungen oder die Neuentwicklung individueller Lösungen. Stefan Ehrlich betont, dass durch diese Ansätze eine deutlich höhere Durchdringung der Arbeitsprozesse mit IT-Unterstützung erreicht wird, was die Effizienz und Produktivität in Unternehmen steigert. ​
+
+
+Vorteile von Low-Code- und No-Code-Ansätzen:
+
+Beschleunigte Entwicklungszyklen: Anwendungen können schneller entwickelt und implementiert werden, was eine zügige Anpassung an sich ändernde Rahmenbedingungen ermöglicht.​
+
+Erhöhte Flexibilität: Unternehmen können ihre Prozesse und Anwendungen flexibel anpassen, ohne auf umfangreiche IT-Ressourcen angewiesen zu sein.​
+
+Demokratisierung der Entwicklung: Mehr Mitarbeitende können aktiv an der Gestaltung und Optimierung von Geschäftsprozessen teilnehmen, was zu innovativeren Lösungen führt.​
+
+Durch diese Vorteile werden Organisationen agiler und wettbewerbsfähiger, da sie schneller auf Veränderungen reagieren und ihre Geschäftsprozesse kontinuierlich optimieren können. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+"Mehr als ein Trend? Wie Low-Code die digitale Transformation unterstützt" von Edona Elshan und Björn Binzer
+
+
+Die Studie "Mehr als ein Trend? Wie Low-Code die digitale Transformation unterstützt" von Edona Elshan und Björn Binzer untersucht die Rolle von Low-Code-Plattformen in der digitalen Transformation von Unternehmen. Sie beleuchtet sowohl die Chancen als auch die Herausforderungen, die mit der Nutzung dieser Technologien verbunden sind. Hier ist eine Zusammenfassung der wichtigsten Ergebnisse:
+
+1. Low-Code-Entwicklung als Treiber der digitalen Transformation
+Low-Code-Plattformen ermöglichen es auch Mitarbeitern ohne tiefgehende Programmierkenntnisse, Softwareanwendungen zu entwickeln. Dies führt zu einer Demokratisierung der Anwendungsentwicklung und steigert die Innovationsfähigkeit von Unternehmen.
+
+Diese Plattformen ermöglichen es, schnell funktionierende Prototypen zu erstellen, die dann iterativ verbessert werden können. Dadurch werden Entwicklungszyklen verkürzt.
+
+2. Chancen durch Low-Code
+Förderung von Innovation und Agilität: Durch den Einsatz von Low-Code-Technologien können Unternehmen flexibler auf Marktanforderungen reagieren und neue Ideen schnell umsetzen.
+
+Entlastung der IT-Abteilungen: IT-Teams werden von Routineaufgaben entlastet, da Geschäftsbereiche zunehmend eigene Anwendungen entwickeln können. Dies ermöglicht den IT-Abteilungen, sich auf strategischere, komplexere Projekte zu konzentrieren.
+
+Beteiligung der Fachabteilungen: Mitarbeiter aus Fachabteilungen (sog. "Citizen Developers") können aktiv zur digitalen Transformation beitragen, ohne dass tiefgreifende IT-Kenntnisse erforderlich sind.
+
+3. Herausforderungen bei der Einführung
+Technische Einschränkungen: Low-Code-Plattformen haben oft begrenzte Funktionalitäten, die die Entwicklung komplexer Anwendungen erschweren können. Die Integration mit bestehenden Systemen kann eine Herausforderung darstellen.
+
+Governance und Qualitätssicherung: Um die Qualität und Sicherheit der entwickelten Anwendungen sicherzustellen, benötigen Unternehmen klare Governance-Strukturen. Die Implementierung von Richtlinien für die Nutzung der Low-Code-Plattformen ist unerlässlich.
+
+Kompetenzentwicklung: Es muss sichergestellt werden, dass "Citizen Developers" über ausreichend Schulungen und Unterstützung verfügen, um qualitativ hochwertige Anwendungen zu erstellen.
+
+4. Empfehlungen für eine erfolgreiche Implementierung
+Schulungen und Mentoring: Unternehmen sollten Schulungen für Mitarbeiter anbieten, die mit Low-Code arbeiten wollen. Zudem ist es hilfreich, Mentorenprogramme einzuführen, um sicherzustellen, dass Fachabteilungen Unterstützung bei der Anwendungsentwicklung erhalten.
+
+Klare Governance-Strategien: Eine klare Steuerung und Überwachung der Low-Code-Nutzung ist notwendig, um sicherzustellen, dass die entwickelten Anwendungen den Qualitätsstandards und den Sicherheitsanforderungen des Unternehmens entsprechen.
+
+Integration von Künstlicher Intelligenz (KI): Die Integration von KI in Low-Code-Plattformen könnte deren Potenzial weiter steigern und die Entwicklung noch effizienter und intelligenter machen.
+
+Fazit:
+Die Studie betont, dass Low-Code-Plattformen eine bedeutende Rolle bei der digitalen Transformation von Unternehmen spielen. Sie bieten erhebliche Chancen, indem sie die Softwareentwicklung demokratisieren und die Agilität von Unternehmen erhöhen. Gleichzeitig gibt es Herausforderungen, insbesondere in Bezug auf die Integration und Governance. Eine sorgfältige Einführung, Schulung und ein klarer Rahmen für den Einsatz dieser Technologien sind entscheidend für den Erfolg.
+
+Diese Studie zeigt, dass Low-Code nicht nur ein Trend ist, sondern eine nachhaltige Veränderung in der Art und Weise darstellt, wie Software entwickelt und Unternehmen in der digitalen Transformation unterstützt werden.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ERP: The next big thing – Sind Lösungen auf Low-Code-Basis die Zukunft
+
+
+Der Artikel "ERP: The next big thing – Sind Lösungen auf Low-Code-Basis die Zukunft?" von Frank Bärmann, veröffentlicht auf IT-Daily.net, beleuchtet die Rolle von Low-Code-Entwicklung in der Evolution von ERP-Systemen. ​
+
+Zusammenfassung der Hauptpunkte:
+
+Definition und Ursprung von Low-Code:
+
+Low-Code bezeichnet eine Entwicklungsweise, bei der Anwendungen mit minimalem Programmieraufwand erstellt werden.​
+
+Der Begriff wurde 2014 von Forrester Research geprägt und zielt darauf ab, die Softwareentwicklung durch grafische Benutzeroberflächen und vorgefertigte Bausteine zu vereinfachen.​
+Onlineportal von IT Management
+
+Herausforderungen traditioneller ERP-Systeme:
+
+Konventionelle ERP-Lösungen sind oft komplex, teuer und schwer anpassbar.​
+
+Die Anpassung dieser Systeme an spezifische Geschäftsprozesse erfordert häufig umfangreiche Individualisierungen, was mit hohem Aufwand verbunden ist.​
+
+Potenziale von Low-Code im ERP-Bereich:
+
+Schnelligkeit und Flexibilität: Low-Code-Plattformen ermöglichen eine bis zu zehnmal schnellere Entwicklung von ERP-Lösungen im Vergleich zur Anpassung von Standardsoftware.​
+
+
+Maßgeschneiderte Lösungen: Durch die modulare Bauweise können ERP-Systeme präzise auf die spezifischen Anforderungen eines Unternehmens zugeschnitten werden.​
+
+Einfache Anpassungen: Geschäftsprozesse können agil angepasst und erweitert werden, ohne tiefgreifende Programmierkenntnisse.​
+
+Herausforderungen und Risiken:
+
+Verantwortung und Kontrolle: Die erhöhte Flexibilität kann dazu führen, dass ständig neue Anforderungen entstehen, was die Projektziele verwässern kann.​
+
+Notwendigkeit klarer Zieldefinitionen: Ohne präzise Festlegung von Anforderungen und Zielen besteht die Gefahr von Ineffizienzen und Projektverzögerungen.​
+
+Fazit:
+
+Low-Code stellt eine vielversprechende Alternative zu traditionellen ERP-Systemen dar, insbesondere für Unternehmen, die Flexibilität und schnelle Anpassungen benötigen.​
+
+Dennoch sollte Low-Code nicht als Allheilmittel betrachtet werden; eine sorgfältige Planung und klare Zielsetzungen sind essenziell für den Erfolg von ERP-Projekten.​
+
+Der Artikel betont, dass Low-Code-Entwicklung die Art und Weise, wie ERP-Systeme entwickelt und angepasst werden, revolutionieren kann. Unternehmen sollten jedoch die Balance zwischen Flexibilität und Kontrolle wahren, um die Vorteile von Low-Code optimal zu nutzen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Maßgeschnittene Software mittels Low Code von Udo Hensen
+
+Zusammenfassung der Hauptpunkte:
+
+Wachstum des Low-Code-Marktes:
+
+Laut Gartner wird der weltweite Markt für Low-Code-Entwicklungstechnologien im Jahr 2023 um fast 20 % wachsen. Bis 2025 sollen 70 % der Unternehmen Low-Code für neue Anwendungen nutzen.​
+Factory Innovation
+
+Vorteile von Low-Code in der Softwareentwicklung:
+
+Schnelligkeit und Flexibilität: Low-Code-Plattformen ermöglichen eine beschleunigte Anwendungsentwicklung und erleichtern Anpassungen an sich ändernde Anforderungen.​
+
+Kosteneffizienz: Durch die Reduzierung des Programmieraufwands können Entwicklungs- und Wartungskosten gesenkt werden.​
+
+Einbindung von Fachabteilungen: Mitarbeiter ohne IT-Hintergrund können aktiv an der Anwendungsentwicklung teilnehmen, was die Zusammenarbeit zwischen Fachbereichen und IT fördert.​
+
+Risiken und Herausforderungen:
+
+Qualitätsmanagement: Ohne sorgfältige Kontrolle können Anwendungen inkonsistent oder von geringer Qualität sein.​
+
+Integration: Die nahtlose Einbindung von Low-Code-Lösungen in bestehende IT-Infrastrukturen kann komplex sein.​
+
+Governance: Es ist wichtig, klare Richtlinien und Standards für die Nutzung von Low-Code-Plattformen festzulegen, um Sicherheit und Compliance zu gewährleisten.​
+
+Empfehlungen für die Implementierung:
+
+Schulung und Unterstützung: Mitarbeiter sollten im Umgang mit Low-Code-Plattformen geschult werden, um deren Potenzial effektiv nutzen zu können.​
+
+Strategische Planung: Eine sorgfältige Auswahl der zu entwickelnden Anwendungen und eine klare Definition der Ziele sind entscheidend für den Erfolg.​
+
+Kontinuierliche Evaluation: Regelmäßige Überprüfungen und Anpassungen der entwickelten Anwendungen stellen sicher, dass sie den aktuellen Anforderungen entsprechen.​
+
+Der Artikel betont, dass Low-Code eine vielversprechende Möglichkeit bietet, maßgeschneiderte Softwarelösungen effizient zu entwickeln. Eine sorgfältige Abwägung der genannten Chancen und Risiken ist jedoch unerlässlich, um den maximalen Nutzen aus Low-Code-Technologien zu ziehen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Der Artikel "Entwicklungszyklen halbieren mit Low Code" von Catrin K.F. Schreiner, veröffentlicht auf it-daily.net, beleuchtet, wie Unternehmen durch den Einsatz von Low-Code-Plattformen ihre Entwicklungszeiten drastisch verkürzen können.​
+
+Zusammenfassung der Hauptpunkte:
+
+Herausforderungen traditioneller Softwareentwicklung:
+
+Die herkömmliche Softwareentwicklung ist oft zeitaufwendig und komplex, was zu Verzögerungen und erhöhten Kosten führen kann.​
+
+Vorteile von Low-Code-Plattformen:
+
+Beschleunigte Entwicklung: Durch die Bereitstellung visueller Entwicklungswerkzeuge und vorgefertigter Komponenten ermöglichen Low-Code-Plattformen eine schnellere Erstellung von Anwendungen.​
+
+Reduzierung des Fachkräftebedarfs: Weniger spezialisierte Entwickler sind erforderlich, da die Plattformen die Komplexität der Programmierung abstrahieren.​
+
+Flexibilität und Anpassungsfähigkeit: Anwendungen können leichter an sich ändernde Geschäftsanforderungen angepasst werden.​
+
+Praktische Umsetzung und Ergebnisse:
+
+Unternehmen, die Low-Code-Plattformen implementiert haben, berichten von erheblichen Verkürzungen der Entwicklungszyklen und einer schnelleren Markteinführung von Anwendungen.​
+
+Der Artikel betont, dass Low-Code-Technologien eine transformative Wirkung auf die Softwareentwicklung haben können, indem sie Effizienz steigern und Unternehmen ermöglichen, schneller auf Marktveränderungen zu reagieren.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Der Artikel "Mehr IT-Nachhaltigkeit und Klimaschutz durch Low-Code Development" von Detlev Spierling, veröffentlicht in der Fachzeitschrift Wirtschaftsinformatik & Management im April 2023, untersucht, wie Low-Code-Entwicklung zur Steigerung der IT-Nachhaltigkeit und zum Klimaschutz beitragen kann. ​
+
+Zusammenfassung der Hauptpunkte:
+
+Dringlichkeit nachhaltiger IT-Praktiken:
+
+Angesichts steigender Energiekosten und wachsender Umweltbedenken stehen Unternehmen unter Druck, ihre IT-Prozesse umweltfreundlicher zu gestalten.​
+
+Potenzial von Low-Code-Entwicklung:
+
+Low-Code-Plattformen ermöglichen eine ressourceneffiziente Softwareentwicklung, die den Energieverbrauch reduziert und somit zur IT-Nachhaltigkeit beiträgt.​
+
+Schlüsselrolle der IT-Abteilungen:
+
+CIOs und IT-Entscheider sind gefordert, durch den Einsatz nachhaltiger Entwicklungsmethoden wie Low Code einen Beitrag zum Klimaschutz zu leisten.​
+
+
+Der Artikel betont die Bedeutung der Integration nachhaltiger Praktiken in die IT-Strategie und hebt hervor, wie Low-Code-Entwicklung als effektives Instrument zur Reduzierung des ökologischen Fußabdrucks von Unternehmen dienen kann.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Der Artikel "Rapid Prototyping of Process-Driven Applications Using Low-Code Development Platforms: A Case Study from the Greek Public Sector" von Marios-Konstantinos Gialitakis und Kollegen untersucht, wie Low-Code-Entwicklungsplattformen zur schnellen Erstellung prozessorientierter Anwendungen im öffentlichen Sektor Griechenlands eingesetzt werden können.​
+ResearchGate
+
+Zusammenfassung der Hauptpunkte:
+
+Hintergrund und Motivation:
+
+Im griechischen öffentlichen Sektor besteht ein Bedarf an effizienten Anwendungen zur Unterstützung komplexer Geschäftsprozesse.​
+
+Traditionelle Entwicklungsansätze sind oft zeitaufwendig und ressourcenintensiv.​
+
+Einsatz von Low-Code-Plattformen:
+
+Low-Code-Plattformen ermöglichen es, Anwendungen mit minimalem Programmieraufwand durch visuelle Modellierung und Drag-and-Drop-Funktionen zu erstellen.​
+
+Dies beschleunigt den Entwicklungsprozess und erleichtert die Anpassung an sich ändernde Anforderungen.​
+
+Fallstudie und Ergebnisse:
+
+Die Autoren entwickelten eine Anwendung zur Unterstützung eines spezifischen Geschäftsprozesses im öffentlichen Sektor unter Verwendung einer Low-Code-Plattform.​
+
+Der Prototyp wurde in kurzer Zeit erstellt und ermöglichte es, den Prozess effizienter zu gestalten.​
+
+Die Anwendung wurde positiv bewertet und zeigte das Potenzial von Low-Code-Plattformen für den öffentlichen Sektor auf.​
+
+Schlussfolgerungen:
+
+Low-Code-Entwicklung bietet eine vielversprechende Lösung für die schnelle Erstellung prozessorientierter Anwendungen im öffentlichen Sektor.​
+
+Die Studie empfiehlt die weitere Erforschung und Implementierung von Low-Code-Plattformen, um die Digitalisierung und Effizienz im öffentlichen Sektor zu fördern.​
+
+Diese Fallstudie verdeutlicht, wie Low-Code-Entwicklungsplattformen zur Optimierung von Geschäftsprozessen und zur Förderung der digitalen Transformation im öffentlichen Sektor beitragen können.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Der Artikel "Traditional vs. Low-Code Development: Comparing Needed Effort and System Complexity in the NexusBRaNT Experiment" von David Aveiro und Kollegen vergleicht die traditionelle Softwareentwicklung mit der Low-Code-Entwicklung hinsichtlich des erforderlichen Aufwands und der Systemkomplexität. ​
+
+Zusammenfassung der Hauptpunkte:
+
+Ziel des Experiments:
+
+Untersuchung der Effizienz von Low-Code-Entwicklungsansätzen im Vergleich zur traditionellen Programmierung am Beispiel des NexusBRaNT-Systems, das für die Verwaltung von Informationen in einem Forschungsprojekt zur kognitiven Rehabilitation von Gesundheitsfachkräften entwickelt wurde.​
+
+
+Methodik:
+
+Entwicklung des Systems sowohl mit traditionellen Programmiermethoden als auch mit einer Low-Code-Plattform, um den benötigten Arbeitsaufwand und die resultierende Systemkomplexität zu vergleichen.​
+
+Ergebnisse:
+
+Arbeitsaufwand: Die traditionelle Entwicklung erforderte 888 Arbeitsstunden, während die Low-Code-Entwicklung nur 47,5 Stunden in Anspruch nahm, was einer Reduktion von 94,63 % entspricht.​
+
+
+Systemkomplexität: Der traditionelle Ansatz führte zu 12.310 Codezeilen, während der Low-Code-Ansatz 1.723 Datenbankeinträge erzeugte, was einer Reduktion von 86 % entspricht.​
+
+Schlussfolgerungen:
+
+Der Einsatz von Low-Code-Plattformen kann den Entwicklungsaufwand erheblich reduzieren und die Komplexität des Systems verringern, was insbesondere für Organisationen von Vorteil ist, die Anwendungen schnell entwickeln und bereitstellen möchten.​
+
+Die Ergebnisse haben wichtige Implikationen für die Zukunft der Softwareentwicklung, insbesondere im Kontext der digitalen Transformation und der steigenden Nachfrage nach agiler und schneller Anwendungsentwicklung.​
+
+
+Dieser Vergleich verdeutlicht das Potenzial von Low-Code-Entwicklungsplattformen, die Effizienz in der Softwareentwicklung zu steigern und die Komplexität der entwickelten Systeme zu reduzieren.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Die Studie "Rapid Prototyping of Process-Driven Applications Using Low-Code Development Platforms: A Case Study from the Greek Public Sector" von Marios-Konstantinos Gialitakis, Georgios Tsakalidis, Nikolaos Nousias und Konstantinos Vergidis untersucht den Einsatz von Low-Code-Entwicklungsplattformen zur schnellen Erstellung prozessorientierter Anwendungen im griechischen öffentlichen Sektor. Sie wurde auf der Balkan Conference on Operational Research im Jahr 2020 präsentiert. ​
+
+Hintergrund: Traditionelle Softwareentwicklung kann zeitaufwendig und ressourcenintensiv sein, insbesondere im öffentlichen Sektor, wo spezifische Anforderungen und Prozesse berücksichtigt werden müssen. Low-Code-Entwicklungsplattformen bieten eine Möglichkeit, Anwendungen mit minimalem manuellen Programmieraufwand zu erstellen, was eine schnellere Bereitstellung und Anpassung ermöglicht.​
+
+Ziel der Studie: Die Autoren wollten untersuchen, wie effektiv Low-Code-Plattformen für die schnelle Prototypenerstellung prozessorientierter Anwendungen im griechischen öffentlichen Sektor eingesetzt werden können.​
+
+Methodik: Im Rahmen der Fallstudie wurde eine spezifische Anwendung für eine öffentliche Einrichtung in Griechenland entwickelt. Die Autoren nutzten eine Low-Code-Plattform, um die Anwendung zu erstellen, und analysierten den Entwicklungsprozess hinsichtlich Geschwindigkeit, Effizienz und der Fähigkeit, die spezifischen Anforderungen der Organisation zu erfüllen.​
+
+Ergebnisse: Die Studie zeigte, dass der Einsatz von Low-Code-Plattformen die Entwicklungszeit erheblich verkürzen und die Effizienz steigern kann. Die entwickelte Anwendung erfüllte die Anforderungen der öffentlichen Einrichtung und konnte schnell angepasst werden, um sich ändernden Bedürfnissen gerecht zu werden.​
+
+Schlussfolgerungen: Low-Code-Entwicklungsplattformen bieten eine vielversprechende Lösung für den öffentlichen Sektor, um prozessorientierte Anwendungen effizient zu entwickeln und bereitzustellen. Sie ermöglichen es Organisationen, flexibler auf Veränderungen zu reagieren und ihre digitalen Transformationsziele schneller zu erreichen.
+
+
+Die Studie "Preliminary Study on the Accessibility and Learning Experience of Low-Code Development Platforms" von Jit Theam Lim et al. untersucht die Benutzerfreundlichkeit und das Lernpotenzial von Low-Code-Entwicklungsplattformen. Ziel der Untersuchung ist es, herauszufinden, ob diese Plattformen für Lernende – insbesondere für Personen ohne umfangreiche Programmierkenntnisse – zugänglich sind und eine effektive Lernumgebung bieten.
+
+Hauptergebnisse der Studie:
+Zugänglichkeit von Low-Code-Plattformen:
+
+Die Studie zeigt, dass Low-Code-Entwicklung eine niedrigere Einstiegshürde bietet als traditionelle Programmierung.
+
+Die visuelle Programmierumgebung erleichtert das Verständnis von Softwareentwicklungsprozessen, insbesondere für Anfänger.
+
+Lernerfahrung:
+
+Die Untersuchung zeigt, dass Lernende mit Low-Code-Plattformen schneller erste Erfolge erzielen als mit herkömmlichen Programmiersprachen.
+
+Interaktive Benutzeroberflächen und Drag-and-Drop-Funktionen helfen dabei, logisches Denken zu entwickeln, ohne tiefgehende Programmierkenntnisse zu benötigen.
+
+Vergleich mit traditioneller Programmierung:
+
+Während Low-Code-Plattformen das Lernen erleichtern, gibt es Einschränkungen in Bezug auf Flexibilität und Anpassungsmöglichkeiten.
+
+Einige komplexe Softwarelösungen erfordern nach wie vor traditionelle Programmierung.
+
+Empfehlungen:
+
+Low-Code kann eine sinnvolle Ergänzung im Bildungsbereich sein, insbesondere für Studierende oder Berufseinsteiger.
+
+Die Kombination aus Low-Code und traditioneller Programmierung könnte eine optimale Strategie für Lernende sein, um Softwareentwicklung effektiv zu erlernen.
+
+Fazit:
+Die Studie kommt zu dem Schluss, dass Low-Code-Entwicklungsplattformen eine niederschwellige und zugängliche Möglichkeit bieten, in die Softwareentwicklung einzusteigen. Sie sind besonders vorteilhaft für Anfänger, bergen aber auch Einschränkungen, wenn es um anspruchsvolle Entwicklungsaufgaben geht. Die Autoren empfehlen, Low-Code als Ergänzung zu traditionellen Programmieransätzen in der Lehre zu nutzen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Die Studie "Preliminary Study on the Accessibility and Learning Experience of Low-Code Development Platforms" von Jit Theam Lim et al. untersucht die Benutzerfreundlichkeit und das Lernpotenzial von Low-Code-Entwicklungsplattformen. Ziel der Untersuchung ist es, herauszufinden, ob diese Plattformen für Lernende – insbesondere für Personen ohne umfangreiche Programmierkenntnisse – zugänglich sind und eine effektive Lernumgebung bieten.
+
+Hauptergebnisse der Studie:
+Zugänglichkeit von Low-Code-Plattformen:
+
+Die Studie zeigt, dass Low-Code-Entwicklung eine niedrigere Einstiegshürde bietet als traditionelle Programmierung.
+
+Die visuelle Programmierumgebung erleichtert das Verständnis von Softwareentwicklungsprozessen, insbesondere für Anfänger.
+
+Lernerfahrung:
+
+Die Untersuchung zeigt, dass Lernende mit Low-Code-Plattformen schneller erste Erfolge erzielen als mit herkömmlichen Programmiersprachen.
+
+Interaktive Benutzeroberflächen und Drag-and-Drop-Funktionen helfen dabei, logisches Denken zu entwickeln, ohne tiefgehende Programmierkenntnisse zu benötigen.
+
+Vergleich mit traditioneller Programmierung:
+
+Während Low-Code-Plattformen das Lernen erleichtern, gibt es Einschränkungen in Bezug auf Flexibilität und Anpassungsmöglichkeiten.
+
+Einige komplexe Softwarelösungen erfordern nach wie vor traditionelle Programmierung.
+
+Empfehlungen:
+
+Low-Code kann eine sinnvolle Ergänzung im Bildungsbereich sein, insbesondere für Studierende oder Berufseinsteiger.
+
+Die Kombination aus Low-Code und traditioneller Programmierung könnte eine optimale Strategie für Lernende sein, um Softwareentwicklung effektiv zu erlernen.
+
+Fazit:
+Die Studie kommt zu dem Schluss, dass Low-Code-Entwicklungsplattformen eine niederschwellige und zugängliche Möglichkeit bieten, in die Softwareentwicklung einzusteigen. Sie sind besonders vorteilhaft für Anfänger, bergen aber auch Einschränkungen, wenn es um anspruchsvolle Entwicklungsaufgaben geht. Die Autoren empfehlen, Low-Code als Ergänzung zu traditionellen Programmieransätzen in der Lehre zu nutzen.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Ja, ich kenne die Studie "Traditional vs. low-code development: comparing needed effort and system complexity in the NexusBRaNT experiment". Diese Untersuchung analysiert die Effizienz von Low-Code-Entwicklung im Vergleich zur traditionellen Programmierung anhand des NexusBRaNT-Systems, das für ein Forschungsprojekt zur kognitiven Rehabilitation von Gesundheitsfachkräften entwickelt wurde.
+
+Hauptergebnisse der Studie:
+Vergleich des Entwicklungsaufwands:
+
+Die traditionelle Entwicklung benötigte 888 Arbeitsstunden, während die Low-Code-Variante nur 47,5 Stunden in Anspruch nahm – eine Reduktion von 94,63 %.
+
+Dies zeigt, dass Low-Code-Plattformen den Entwicklungsprozess erheblich beschleunigen können.
+
+Vergleich der Systemkomplexität:
+
+Der traditionell entwickelte Prototyp umfasste 12.310 Codezeilen, während der Low-Code-Ansatz 1.723 Datenbankeinträge erzeugte – eine Reduktion der Komplexität um 86 %.
+
+Dies verdeutlicht, dass Low-Code die Menge an manuell geschriebenem Code drastisch verringern kann.
+
+Schlussfolgerungen:
+
+Low-Code reduziert den Entwicklungsaufwand erheblich, was besonders für Organisationen relevant ist, die schnell Anwendungen erstellen müssen.
+
+Die niedrigere Komplexität kann zu besserer Wartbarkeit und schnelleren Anpassungen führen.
+
+Trotz der Vorteile kann Low-Code in manchen Fällen an seine Grenzen stoßen, insbesondere bei sehr spezifischen oder hochkomplexen Anforderungen.
+
+Fazit:
+Die Studie zeigt, dass Low-Code-Entwicklung im Vergleich zur traditionellen Programmierung eine deutliche Zeit- und Aufwandsersparnis bietet und gleichzeitig die Systemkomplexität reduziert. Dies unterstreicht das Potenzial von Low-Code-Plattformen für eine effizientere Softwareentwicklung, insbesondere in Bereichen mit hohem Bedarf an schneller Bereitstellung und Anpassungsfähigkeit.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ja, der Artikel „Enlisting Citizen Developers to Deliver Digital Business Value With Generative AI & Low-Code Development Platforms“ ist ein Fachbeitrag (oft zitiert in Tech- und Managementkreisen), der sich mit der Zusammenführung von Low-Code-Entwicklung, generativer KI und sogenannten Citizen Developers beschäftigt.
+
+Hier ist eine Zusammenfassung der zentralen Inhalte:
+🔎 Ziel des Artikels:
+Der Beitrag untersucht, wie Unternehmen durch den gezielten Einsatz von Citizen Developern (also Nicht-IT-Fachleuten mit technischem Interesse) in Kombination mit Low-Code-Plattformen und generativer KI schneller und effizienter digitale Lösungen entwickeln können.
+
+🧠 Kernthesen:
+1. Citizen Developers als Innovationstreiber
+Mitarbeitende aus Fachabteilungen können durch Low-Code-Tools selbst Anwendungen erstellen, ohne tiefgehende Programmierkenntnisse.
+
+Generative KI (z. B. für Code-Vorschläge, UI-Design oder Datenverarbeitung) unterstützt diesen Prozess massiv.
+
+Das führt zu einer Entlastung der IT und schnelleren Time-to-Market.
+
+2. Generative KI als Katalysator
+Tools wie ChatGPT, Copilot oder andere KI-basierte Assistenten senken die Einstiegshürden weiter.
+
+Sie helfen bei der Automatisierung von Routineaufgaben, Formulierung von Logik oder sogar beim Design von Nutzeroberflächen.
+
+3. Business Value entsteht durch Zusammenarbeit
+Der eigentliche Wert entsteht, wenn Business- und IT-Seite effektiv zusammenarbeiten.
+
+Die Autoren betonen die Bedeutung von Governance, Security und Qualitätskontrollen, um Wildwuchs und Sicherheitsrisiken zu vermeiden.
+
+4. Best Practices und Empfehlungen
+Unternehmen sollen:
+
+eine Citizen-Developer-Strategie definieren,
+
+geeignete Plattformen und Schulungen bereitstellen,
+
+KI sinnvoll integrieren, z. B. durch assistive Funktionen,
+
+und einen Rahmen schaffen, der Innovation erlaubt, aber Sicherheit gewährleistet.
+
+💡 Fazit:
+Die Kombination von Low-Code, KI und Citizen Development bietet enormes Potenzial für die digitale Transformation. Wenn Unternehmen die richtigen Strukturen schaffen, können sie kreative Lösungen schneller umsetzen, ohne sich vollständig auf die klassische IT zu verlassen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+a, ich kenne den Artikel „Optimization for achieving sustainability in low code development platform“ von Vaishali S. Phalake und Kollegen, veröffentlicht im International Journal on Interactive Design and Manufacturing (IJIDeM) im Jahr 2023. ​
+
+Hier ist eine Zusammenfassung der zentralen Inhalte:
+
+🧩 Ziel des Artikels
+Der Artikel untersucht, wie Low-Code-Entwicklungsplattformen (LCDPs) durch gezielte Optimierungstechniken nachhaltiger gestaltet werden können. Im Fokus stehen dabei die Reduzierung von Ressourcenverbrauch und Entwicklungszeit bei gleichzeitiger Steigerung der Effizienz, insbesondere im Bereich der Datenanalyse und Fertigungsprozesse.​
+
+⚙️ Hauptinhalte
+Low-Code-Plattformen als Lösung für komplexe Anwendungen
+LCDPs ermöglichen die Entwicklung von Anwendungen mit minimalem oder keinem manuellen Code, was die Softwareentwicklung beschleunigt und vereinfacht. Durch visuelle Modellierung und wiederverwendbare Module können auch komplexe Technologien wie IoT, KI und Big Data integriert werden.
+
+Optimierungstechniken für Nachhaltigkeit
+Das vorgestellte optimierte LCDP bietet zwei Modi für Datenanalyseanwendungen: mit und ohne Optimierung. Die Ergebnisse zeigen, dass der optimierte Modus sowohl den Speicherbedarf als auch die Ausführungszeit reduziert, was zu einer effizienteren Ressourcennutzung führt.
+
+Anwendung in der Fertigungsindustrie
+Die Autoren betonen, dass insbesondere die Fertigungsindustrie von optimierten LCDPs profitieren kann, indem sie Prozesse automatisiert und Datenanalysen effizienter gestaltet.
+
+📌 Fazit
+Der Artikel zeigt, dass durch die Integration von Optimierungstechniken in Low-Code-Plattformen nicht nur die Entwicklungsprozesse beschleunigt, sondern auch nachhaltige und ressourcenschonende Anwendungen geschaffen werden können. Dies ist besonders relevant für Branchen wie die Fertigungsindustrie, die auf effiziente und flexible Softwarelösungen angewiesen sind.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ja, ich kenne den Artikel „Fueling Digital Transformation with Citizen Developers and Low-Code Development“ von Ainara Novales und Rubén Mancha, veröffentlicht in der MIS Quarterly Executive im Jahr 2023. ​
+
+Hier ist eine Zusammenfassung der zentralen Inhalte:
+
+🎯 Zielsetzung des Artikels
+Der Artikel untersucht, wie Unternehmen durch den Einsatz von Citizen Developern (Mitarbeitenden ohne tiefgehende IT-Kenntnisse) und Low-Code-Entwicklungsplattformen ihre digitale Transformation vorantreiben können. Dabei werden zwei Fallstudien von frühen Anwendern präsentiert und Empfehlungen für die Einführung solcher Technologien gegeben.​
+
+🧠 Zentrale Erkenntnisse
+Bedeutung von Low-Code-Entwicklung
+
+Low-Code-Plattformen ermöglichen es, Softwareanwendungen mit minimalem Programmieraufwand zu erstellen.
+
+Dies beschleunigt die Entwicklung und reduziert die Abhängigkeit von spezialisierten IT-Ressourcen.​
+ResearchGate
+
+Rolle der Citizen Developer
+
+Mitarbeitende aus Fachabteilungen können eigene Anwendungen entwickeln, die spezifische Bedürfnisse adressieren.
+
+Dies fördert Innovation und Flexibilität innerhalb des Unternehmens.​
+
+Herausforderungen bei der Implementierung
+
+Es besteht die Notwendigkeit, geeignete Governance-Strukturen zu etablieren.
+
+Schulungen und Support sind entscheidend, um die Akzeptanz und effektive Nutzung sicherzustellen.​
+
+📌 Empfehlungen für Unternehmen
+Strategische Planung: Eine klare Vision und Strategie für den Einsatz von Low-Code-Plattformen entwickeln.
+
+Schulung und Unterstützung: Mitarbeitende entsprechend schulen und kontinuierliche Unterstützung bieten.
+
+Governance-Strukturen: Richtlinien und Prozesse etablieren, um Qualität und Sicherheit der entwickelten Anwendungen zu gewährleisten.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Ja, ich kenne den Artikel „Low-Code Development Platforms: A Descriptive Study“ von Pedro M. Gomes und Miguel A. Brito, veröffentlicht im Juni 2022 auf der 17. Iberischen Konferenz für Informationssysteme und -technologien (CISTI). Der Artikel bietet eine umfassende deskriptive Analyse von Low-Code-Entwicklungsplattformen (LCDPs).​
+
+🎯 Zielsetzung des Artikels
+Die Autoren untersuchen die Schlüsselaspekte von LCDPs, einschließlich ihrer Konzepte, Anwendungsfälle und der aktuellen Forschungslage. Ziel ist es, einen Überblick über den Stand der Technik zu geben und die wichtigsten Faktoren und Variablen im Zusammenhang mit LCDPs zu identifizieren.​
+
+🔍 Zentrale Erkenntnisse
+1. Vorteile von LCDPs
+Die Studie identifiziert mehrere Vorteile von LCDPs, darunter:​
+
+Schnellere Entwicklung: Ermöglicht eine beschleunigte Anwendungsentwicklung.​
+
+Benutzerfreundlichkeit: Einfache Bedienung, auch für Nutzer ohne tiefgehende Programmierkenntnisse.​
+
+Kostensenkung: Reduzierung der IT-Kosten durch geringeren Bedarf an spezialisierten Entwicklern.​
+
+Integration und Erweiterbarkeit: Starke Fähigkeit zur Integration mit anderen Systemen und zur Erweiterung bestehender Funktionen.​
+
+Anpassungsfähigkeit: Ermöglicht eine bessere Anpassung an spezifische Geschäftsbedürfnisse.​
+
+2. Herausforderungen bei der Nutzung von LCDPs
+Trotz der Vorteile gibt es auch Herausforderungen:​
+
+Hohe Lernkurve: Einige Plattformen erfordern eine gewisse Einarbeitung.​
+
+Kosten: Einige LCDPs können teuer sein.​
+
+Begrenzte Anpassungsmöglichkeiten: Eingeschränkte Möglichkeiten zur individuellen Anpassung der Anwendungen.​
+
+Leistungseinbußen: Mögliche geringere Leistung im Vergleich zu traditionell entwickelten Anwendungen.​
+
+3. Anwendungsfälle von LCDPs
+Die Studie beschreibt verschiedene Anwendungsfälle von LCDPs, darunter:​
+
+Projektbasiertes Lernen: Einsatz in Bildungseinrichtungen zur Unterstützung von Lernprojekten.​
+
+Digitale Transformation in der Fertigungsindustrie: Unterstützung bei der Digitalisierung von Produktionsprozessen.​
+
+Internet der Dinge (IoT): Entwicklung von Anwendungen für IoT-Systeme.​
+ResearchGate
++1
+Wikipedia – Die freie Enzyklopädie
++1
+
+Unternehmertum: Förderung von Unternehmensgründungen durch einfache Anwendungsentwicklung.​
+
+Citizen Development: Ermöglichung der Anwendungsentwicklung durch Endanwender ohne Programmierkenntnisse.​
+
+4. Theoretische Perspektiven
+Die Autoren diskutieren LCDPs als domänenspezifische Sprachen, die auf modellgetriebenem Engineering (MDE) basieren. Diese Perspektive hilft, die Flexibilität und Anpassungsfähigkeit von LCDPs zu verstehen und ihre Anwendung in verschiedenen Bereichen zu fördern.​
+ResearchGate
+
+📌 Fazit
+Die Studie liefert einen umfassenden Überblick über Low-Code-Entwicklungsplattformen, ihre Vorteile, Herausforderungen und Anwendungsfälle. Sie betont die Bedeutung von LCDPs für die digitale Transformation und die Demokratisierung der Anwendungsentwicklung. Trotz der identifizierten Herausforderungen bieten LCDPs eine vielversprechende Möglichkeit, die Entwicklung von Softwareanwendungen zu beschleunigen und breiteren Nutzergruppen zugänglich zu machen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Ja, ich kenne den Artikel „Developing Module Generation for Odoo Using Concept of Low-Code Development Platform and Automation Systems“ von Sopanawit Pichidtienthum, veröffentlicht im April 2021. In dieser Studie wird ein Modul-Generator für Odoo vorgestellt, der auf dem Konzept der Low-Code-Entwicklungsplattform und Automatisierungssystemen basiert. ​
+ResearchGate
+
+🎯 Zielsetzung des Artikels
+Die Autoren zielen darauf ab, einen Web-basierten Modul-Generator für Odoo zu entwickeln, der es Entwicklern ermöglicht, mit minimalem Programmieraufwand Module zu erstellen. Dies soll die Entwicklungszeit verkürzen und den Fokus mehr auf die Logik der Programmierung legen.​
+
+🔍 Zentrale Erkenntnisse
+Modul-Generator: Ein Tool, das automatisch Code für Odoo-Module generiert, basierend auf den Eingaben des Entwicklers.​
+
+Benutzergruppen: Der Generator wurde mit drei Gruppen getestet: Nicht-Odoo-Nutzer, Odoo-Nutzer und Odoo-Entwickler.​
+
+Zeitvergleich: Der Vergleich der Entwicklungszeiten zwischen der traditionellen Methode und dem Einsatz des Low-Code-Generators ergab eine durchschnittliche Zeitersparnis von 20%.​
+ResearchGate
+
+📌 Fazit
+Der vorgeschlagene Modul-Generator nutzt das Low-Code-Konzept, um die Erstellung von Odoo-Modulen zu erleichtern und zu beschleunigen. Die Ergebnisse zeigen, dass durch den Einsatz dieses Generators die Entwicklungszeit signifikant reduziert werden kann, ohne die Qualität oder Funktionalität der Module zu beeinträchtigen.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+​Ja, ich kenne den Artikel „Supporting the Understanding and Comparison of Low-Code Development Platforms“ von Sahay et al., veröffentlicht auf der 46. Euromicro Conference on Software Engineering and Advanced Applications (SEAA) im Jahr 2020. ​
+se-rwth.de
+
+🎯 Zielsetzung des Artikels
+Der Artikel zielt darauf ab, ein besseres Verständnis für Low-Code-Entwicklungsplattformen (LCDPs) zu fördern und eine Grundlage für deren Vergleich zu schaffen. Dazu wird ein konzeptionelles Vergleichsmodell vorgestellt, das es ermöglicht, verschiedene LCDPs hinsichtlich ihrer Funktionen und Dienste zu analysieren.​
+conferences.computer.org
+
+🔍 Zentrale Erkenntnisse
+Vergleichsmodell: Ein konzeptionelles Modell wurde entwickelt, um die Funktionen und Dienste verschiedener LCDPs systematisch zu vergleichen.​
+conferences.computer.org
+
+Analyse von acht LCDPs: Es wurden acht repräsentative Low-Code-Plattformen untersucht, um ein umfassendes Bild der verfügbaren Funktionen zu erhalten.​
+
+Identifikation von Funktionen: Für jede Plattform wurden spezifische Funktionen und unterstützte Dienste identifiziert, um deren Eignung für unterschiedliche Benutzeranforderungen zu bewerten.​
+
+📌 Fazit
+Der Artikel bietet einen strukturierten Ansatz zur Analyse und zum Vergleich von Low-Code-Entwicklungsplattformen. Durch die Anwendung des vorgestellten Vergleichsmodells können Entwickler und Entscheidungsträger besser einschätzen, welche Plattform am besten zu ihren spezifischen Anforderungen passt.
